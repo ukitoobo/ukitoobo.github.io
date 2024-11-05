@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukitoobo.github.io/KZX/sitemap_index.txt
+Sitemap: https://ukitoobo.github.io/aVq/sitemap_index.txt
+Sitemap: https://ukitoobo.github.io/eOB/sitemap_index.txt
+Sitemap: https://ukitoobo.github.io/yUH/sitemap_index.txt
